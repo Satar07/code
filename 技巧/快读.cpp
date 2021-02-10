@@ -1,8 +1,7 @@
 #include<iostream>
 #include<cstdio>
 #include<cstdlib>
-//#include<cctype>
-//
+
 using namespace std;
 
 inline int in(){
